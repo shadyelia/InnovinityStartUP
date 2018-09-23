@@ -1,0 +1,12 @@
+c:\users\appenza\source\repos\Innovinity\Innovinity\bin\Debug\netcoreapp2.0\Innovinity.deps.json
+c:\users\appenza\source\repos\Innovinity\Innovinity\bin\Debug\netcoreapp2.0\Innovinity.runtimeconfig.json
+c:\users\appenza\source\repos\Innovinity\Innovinity\bin\Debug\netcoreapp2.0\Innovinity.runtimeconfig.dev.json
+c:\users\appenza\source\repos\Innovinity\Innovinity\bin\Debug\netcoreapp2.0\Innovinity.dll
+c:\users\appenza\source\repos\Innovinity\Innovinity\obj\Debug\netcoreapp2.0\Innovinity.csprojResolveAssemblyReference.cache
+c:\users\appenza\source\repos\Innovinity\Innovinity\obj\Debug\netcoreapp2.0\Innovinity.csproj.CoreCompileInputs.cache
+c:\users\appenza\source\repos\Innovinity\Innovinity\obj\Debug\netcoreapp2.0\Innovinity.AssemblyInfoInputs.cache
+c:\users\appenza\source\repos\Innovinity\Innovinity\obj\Debug\netcoreapp2.0\Innovinity.AssemblyInfo.cs
+c:\users\appenza\source\repos\Innovinity\Innovinity\bin\Debug\netcoreapp2.0\Innovinity.pdb
+c:\users\appenza\source\repos\Innovinity\Innovinity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\appenza\source\repos\Innovinity\Innovinity\obj\Debug\netcoreapp2.0\Innovinity.dll
+c:\users\appenza\source\repos\Innovinity\Innovinity\obj\Debug\netcoreapp2.0\Innovinity.pdb
